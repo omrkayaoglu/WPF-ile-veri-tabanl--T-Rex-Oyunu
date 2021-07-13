@@ -1,0 +1,45 @@
+C:\Users\Ömer Kayaoğlu\source\repos\T-Rex_Game\T-Rex_Game\bin\Debug\T-Rex_Game.exe.config
+C:\Users\Ömer Kayaoğlu\source\repos\T-Rex_Game\T-Rex_Game\bin\Debug\T-Rex_Game.exe
+C:\Users\Ömer Kayaoğlu\source\repos\T-Rex_Game\T-Rex_Game\bin\Debug\T-Rex_Game.pdb
+C:\Users\Ömer Kayaoğlu\source\repos\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game.csprojAssemblyReference.cache
+C:\Users\Ömer Kayaoğlu\source\repos\T-Rex_Game\T-Rex_Game\obj\Debug\MainWindow.g.cs
+C:\Users\Ömer Kayaoğlu\source\repos\T-Rex_Game\T-Rex_Game\obj\Debug\App.g.cs
+C:\Users\Ömer Kayaoğlu\source\repos\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game_MarkupCompile.cache
+C:\Users\Ömer Kayaoğlu\source\repos\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game_MarkupCompile.lref
+C:\Users\Ömer Kayaoğlu\source\repos\T-Rex_Game\T-Rex_Game\obj\Debug\MainWindow.baml
+C:\Users\Ömer Kayaoğlu\source\repos\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game.g.resources
+C:\Users\Ömer Kayaoğlu\source\repos\T-Rex_Game\T-Rex_Game\obj\Debug\T_Rex_Game.Properties.Resources.resources
+C:\Users\Ömer Kayaoğlu\source\repos\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game.csproj.GenerateResource.cache
+C:\Users\Ömer Kayaoğlu\source\repos\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Kayaoğlu\source\repos\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game.exe
+C:\Users\Ömer Kayaoğlu\source\repos\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game.pdb
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game\T-Rex_Game\bin\Debug\T-Rex_Game.exe.config
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game\T-Rex_Game\bin\Debug\T-Rex_Game.exe
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game\T-Rex_Game\bin\Debug\T-Rex_Game.pdb
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game.csprojAssemblyReference.cache
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game\T-Rex_Game\obj\Debug\MainWindow.g.cs
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game\T-Rex_Game\obj\Debug\App.g.cs
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game_MarkupCompile.cache
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game_MarkupCompile.lref
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game\T-Rex_Game\obj\Debug\MainWindow.baml
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game.g.resources
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game\T-Rex_Game\obj\Debug\T_Rex_Game.Properties.Resources.resources
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game.csproj.GenerateResource.cache
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game.exe
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game\T-Rex_Game\obj\Debug\T-Rex_Game.pdb
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game - Kopya\T-Rex_Game\bin\Debug\T-Rex_Game.exe.config
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game - Kopya\T-Rex_Game\bin\Debug\T-Rex_Game.exe
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game - Kopya\T-Rex_Game\bin\Debug\T-Rex_Game.pdb
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game - Kopya\T-Rex_Game\obj\Debug\T-Rex_Game.csprojAssemblyReference.cache
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game - Kopya\T-Rex_Game\obj\Debug\MainWindow.g.cs
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game - Kopya\T-Rex_Game\obj\Debug\App.g.cs
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game - Kopya\T-Rex_Game\obj\Debug\T-Rex_Game_MarkupCompile.cache
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game - Kopya\T-Rex_Game\obj\Debug\T-Rex_Game_MarkupCompile.lref
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game - Kopya\T-Rex_Game\obj\Debug\MainWindow.baml
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game - Kopya\T-Rex_Game\obj\Debug\T-Rex_Game.g.resources
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game - Kopya\T-Rex_Game\obj\Debug\T_Rex_Game.Properties.Resources.resources
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game - Kopya\T-Rex_Game\obj\Debug\T-Rex_Game.csproj.GenerateResource.cache
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game - Kopya\T-Rex_Game\obj\Debug\T-Rex_Game.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game - Kopya\T-Rex_Game\obj\Debug\T-Rex_Game.exe
+C:\Users\Ömer Kayaoğlu\Desktop\T-Rex_Game - Kopya\T-Rex_Game\obj\Debug\T-Rex_Game.pdb
